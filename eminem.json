@@ -1,0 +1,72 @@
+{
+    "titel": {
+        "media": {
+            "url": "https://www.google.com/search?q=eminem&sxsrf=AOaemvJ1Xx81yUG_H__23bIsmF_vykjjIQ:1638714949971&tbm=isch&source=iu&ictx=1&fir=-E2Zy0d4Cp4tYM%252C3eKwJU8CJm0FqM%252C_%253B8d4ym1QjKXi_HM%252CW3S81mGDOd--_M%252C_%253B10JfIRh9mQQIGM%252Ckynlta2AZQ6_EM%252C_%253BSeTQh_FheMYRxM%252CK9Figj6gtWPDkM%252C_%253BKWop7RS-o3G2SM%252Cs7Hwiffp14ZiVM%252C_%253Byz4ggG0D3s1ZcM%252CJFdzpk1oYkR53M%252C_&vet=1&usg=AI4_-kTrGYHLUQmhx4OG9FyYVjzVuTMZQg&sa=X&ved=2ahUKEwi8_-vz8Mz0AhWU_rsIHcHHA-EQ_h16BQiFARAB#imgrc=8d4ym1QjKXi_HM",
+            "caption": "Slim Shady"
+
+        },
+        "text": {
+            "headline": "eminem is the best rapper out there",
+            "text": "he dissed MGK so bad he changed Genre's, from rap to Rock"
+        }
+    },
+    "events": [
+        {
+            "media": {
+                "url": "https://www.google.com/search?q=eminem&sxsrf=AOaemvJ1Xx81yUG_H__23bIsmF_vykjjIQ:1638714949971&tbm=isch&source=iu&ictx=1&fir=-E2Zy0d4Cp4tYM%252C3eKwJU8CJm0FqM%252C_%253B8d4ym1QjKXi_HM%252CW3S81mGDOd--_M%252C_%253B10JfIRh9mQQIGM%252Ckynlta2AZQ6_EM%252C_%253BSeTQh_FheMYRxM%252CK9Figj6gtWPDkM%252C_%253BKWop7RS-o3G2SM%252Cs7Hwiffp14ZiVM%252C_%253Byz4ggG0D3s1ZcM%252CJFdzpk1oYkR53M%252C_&vet=1&usg=AI4_-kTrGYHLUQmhx4OG9FyYVjzVuTMZQg&sa=X&ved=2ahUKEwi8_-vz8Mz0AhWU_rsIHcHHA-EQ_h16BQiFARAB#imgrc=8d4ym1QjKXi_HM",
+                "caption":"google search for eminem"
+            },
+            "start_date": {
+                "month": "2",
+                "day": "26",
+                "year": "1997"
+            },
+			"text": {
+				"headline": "eminem is the best rapper out there",
+				"text": "he dissed MGK so bad he changed Genre's, from rap to Rock"
+			}
+        },
+        {
+			"media": {
+				"url": "//upload.wikimedia.org/wikipedia/commons/d/dd/ABC_-_Good_Morning_America_-_Diane_Sawyer.jpg",
+				"caption": "Diane Sawyer ",
+				"credit": "flickr/<a href='http://www.flickr.com/photos/23843757@N00/194521206/'>Amanda Benham</a>"
+			},
+			"start_date": {
+				"year": "2002"
+			},
+			"text": {
+				"headline": "Crack is Whack",
+				"text": "<p>Houston first publicly admitted to drug use in an interview with Diane Sawyer. The singer coined the term \"Crack is Whack,\" saying that she only used more expensive drugs.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/KLk6mt8FMR0",
+				"caption": "Addiction expert, Dr. Drew, talks about Whitney's death and her struggle with addiction.",
+				"credit": "CNN"
+			},
+			"start_date": {
+				"year": "2004"
+			},
+			"text": {
+				"headline": "Rehab",
+				"text": "<p>Houston entered rehab several times beginning in 2004. She declared herself drug free in an interview with Oprah Winfrey in 2009 but returned to rehab in 2011.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"start_date": {
+				"year": "2005"
+			},
+			"text": {
+				"headline": "Being Bobby Brown",
+				"text": "<p>Being Bobby Brown was a reality show starring Brown and wife Whitney Houston. Houston refused to sign for a second season. A clip of her telling Brown to \"Kiss my ass,\" became a running gag on The Soup.</p>"
+			}
+		}
+    ]
+}
